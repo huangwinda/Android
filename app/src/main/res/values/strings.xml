@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clock App</string>
+    <string name="clock_image">Clock Image</string>
+
+    <!-- Option button texts -->
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+
+    <!-- Score label -->
+    <string name="score_label">Score: %1$d</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="game_over_message">Your final score is: %1$d</string>
+
+
+</resources>
